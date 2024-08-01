@@ -1,0 +1,4 @@
+- 👋 eaii, eu sou o Victor, tenho 21 anos de idade 
+- 👀 estou quase me formando em "ads"
+- 🌱 eu estou aprendendo bastante sobre as tecnologias e estou focado em python
+- 💞️ estou procurando pela minha primeira oportunidade no mercado de trabalho como programador
